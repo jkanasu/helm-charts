@@ -3,6 +3,16 @@ entries:
   jtest:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-01-29T02:26:42.346436494Z"
+    description: A Helm chart for Kubernetes
+    digest: c6db2dd95c5b4b85ff967d1d66e773b33c91b26dcacf0cbe996d04a03970b92a
+    name: jtest
+    type: application
+    urls:
+    - https://github.com/jkanasu/helm-charts/releases/download/jtest-0.2.0/jtest-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-01-29T02:17:41.539543321Z"
     description: A Helm chart for Kubernetes
     digest: 2a083efc15de278c95199aa338b765e4c59fb54824ee9fcde47ea29226da2f1f
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/jkanasu/helm-charts/releases/download/jtest-0.1.0/jtest-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-29T02:17:41.539552879Z"
+generated: "2024-01-29T02:26:42.346447925Z"
